@@ -28,6 +28,7 @@ public class Main {
                     System.out.println("Частное: " + arithmeticOperations.quotient());
                 }
             }
+
         }
 
 

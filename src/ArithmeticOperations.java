@@ -26,4 +26,5 @@ public class ArithmeticOperations {
         }
         return number1 / number2;
     }
+
 }
