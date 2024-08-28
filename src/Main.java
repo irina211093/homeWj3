@@ -27,7 +27,6 @@ public class Main {
                 if (operation == '/') {
                     System.out.println("Частное: " + arithmeticOperations.quotient());
                 }
-
             }
         }
 
